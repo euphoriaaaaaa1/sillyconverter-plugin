@@ -1,0 +1,10 @@
+{
+    "display_name": "EPUB 导出器",
+    "loading_order": 1000,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "author": "SillyConverter",
+    "version": "2.0.1",
+    "description": "把当前聊天记录连同图片导出为 EPUB 电子书，图片保持在原文位置"
+}
